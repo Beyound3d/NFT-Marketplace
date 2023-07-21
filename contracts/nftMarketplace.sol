@@ -196,4 +196,3 @@ function fetchMarketListed() public view returns (MarketItem[] memory){
     return items;
 }
 
-}
